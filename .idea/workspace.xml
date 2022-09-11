@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78e2b39d-6292-4be3-ae75-07ce638de0e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Unidade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ValorValido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testEhValorValido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testUnidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testEhValorValido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testValorValido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,29 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Programação/Java/Java_Exemplos_Testes_Unitarios"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programação/Java/Java_Exemplos_Testes_Unitarios&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.testEhValorValido">
+}</component>
+  <component name="RunManager" selected="JUnit.testValorValido">
     <configuration name="testEhValorValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Exemplos_Testes_Unitarios" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testEhValorValido" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testEhValorValido.testIstoEUmValorValorSetenca2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Exemplos_Testes_Unitarios" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testEhValorValido" />
-      <option name="METHOD_NAME" value="testIstoEUmValorValorSetenca2" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,26 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="testValorValido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Exemplos_Testes_Unitarios" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java_Exemplos_Testes_Unitarios" />
-      <option name="filePath" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testValorValido" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testValorValido" />
         <item itemvalue="JUnit.testEhValorValido" />
         <item itemvalue="JUnit.testUnidade" />
         <item itemvalue="JUnit.testUnidade.testIstoEUnidadeFalse" />
         <item itemvalue="JUnit.testUnidade.testIstoEUnidadeTrue" />
-        <item itemvalue="JUnit.testEhValorValido.testIstoEUmValorValorSetenca2" />
       </list>
     </recent_temporary>
   </component>
